@@ -1,0 +1,7 @@
+echo "# Neg-s-1st-repo_1.12.01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/N3g4r/Neg-s-1st-repo_1.12.01.git
+git push -u origin main
